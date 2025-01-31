@@ -13,3 +13,6 @@ ctrl + shift + b
 
 ## input.txtからテストを実行する。
 fn + F5
+
+## 仮想環境起動
+source .atenv/bin/activate
